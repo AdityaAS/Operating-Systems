@@ -1,0 +1,5 @@
+
+
+ fd after dup()=1
+
+Hello, world!
